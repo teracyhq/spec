@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://hoatle.github.io/teracy-spec/archives/</loc>
-        <lastmod>2013-09-11T04:21:30+00:00</lastmod>
+        <loc>http://spec.teracy.org/</loc>
+        <lastmod>2013-09-11T04:30:33+00:00</lastmod>
     </url>
     <url>
-        <loc>http://hoatle.github.io/teracy-spec/robots.txt</loc>
-        <lastmod>2013-09-11T04:21:30+00:00</lastmod>
+        <loc>http://spec.teracy.org/archives/</loc>
+        <lastmod>2013-09-11T04:30:33+00:00</lastmod>
     </url>
     <url>
-        <loc>http://hoatle.github.io/teracy-spec/</loc>
-        <lastmod>2013-09-11T04:21:30+00:00</lastmod>
+        <loc>http://spec.teracy.org/robots.txt</loc>
+        <lastmod>2013-09-11T04:30:33+00:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://hoatle.github.io/teracy-spec/sitemap.xml 
+Sitemap: http://spec.teracy.org/sitemap.xml 
