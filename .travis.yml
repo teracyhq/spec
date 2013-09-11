@@ -16,4 +16,4 @@ after_script:
 env:
   global:
   - GH_REPO="teracy-official/spec"
-  - secure: ll0qKyaIMGw5Fw+CXNKUE5Afy9zNdQimJHLoyNKi8TzIBFgwyARq/IrTllxA+NTdSWoIGnfV1HHtEbpwbaYlwA+/HxbxGqTza995N8V1llEfp0m1E63dh3qfbKcvJ9Xhg6502VMeXyTYPKAK4nAl2FW4BVhwIrCOTfN1U4oseu8=
+  - secure: UZOZTyYbKVL4q2MZct7EJ/9KHr7wn1zKM9SFhb+McwfYaP8rZQLvzaMCdoDi+UjCHvwQ7QySdcmfb8LNen2ugB3RXfB7x6VQsdljIxX7rvszpf1HSJfay5Ms1RHwNXDLcx41ubOELWcWCSIdGgTLul8jAq8H+yU4ldGw9LU1yHA=
