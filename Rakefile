@@ -122,23 +122,15 @@ task :new_post, :title do |t, args|
     post.puts "---"
     # teracy: add blog post structure guide
     post.puts ""
-    post.puts "The hook part: short text to get readers' interest so that they will continue reading"
-    post.puts ""
     post.puts "Abstract"
     post.puts "--------"
     post.puts ""
-    post.puts "Problem"
-    post.puts "-------"
-    post.puts ""
-    post.puts "Requirements"
+    post.puts "Introduction"
     post.puts "------------"
     post.puts ""
-    post.puts "Solution"
-    post.puts "--------"
+    post.puts "References"
+    post.puts "----------"
     post.puts ""
-    post.puts "Summary"
-    post.puts "-------"
-
   end
 end
 
